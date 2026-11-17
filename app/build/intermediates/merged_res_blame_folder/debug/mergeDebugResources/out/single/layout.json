@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-mergeDebugResources-45:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-main-48:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-mergeDebugResources-45:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-main-48:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-mergeDebugResources-45:\\layout\\activity_result.xml",
+        "source": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-main-48:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-mergeDebugResources-45:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-main-48:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "com.example.quizapp-mergeDebugResources-45:/layout/activity_login.xml",
+        "source": "com.example.quizapp-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-mergeDebugResources-45:\\layout\\activity_quiz.xml",
+        "source": "C:\\Users\\naidu\\.gradle\\daemon\\9.3.0\\com.example.quizapp-main-48:\\layout\\activity_quiz.xml"
+    }
+]

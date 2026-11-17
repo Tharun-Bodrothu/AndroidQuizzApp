@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_correct">#2E9D62</color>
+    <color name="primary">#3157D5</color>
+    <color name="primary_dark">#203B9B</color>
+    <color name="red_wrong">#D94343</color>
+    <color name="surface_bg">#F5F7FC</color>
+    <color name="text_primary">#182230</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">QuizApp</string>
+    <string name="default_web_client_id" translatable="false">123456789000-dummyclientid.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">123456789000</string>
+    <string name="google_api_key" translatable="false">AIzaSyDummyKeyForQuizAppPlaceholder12345</string>
+    <string name="google_app_id" translatable="false">1:123456789000:android:1234567890abcdef</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDummyKeyForQuizAppPlaceholder12345</string>
+    <string name="google_storage_bucket" translatable="false">quizapp-placeholder.appspot.com</string>
+    <string name="project_id" translatable="false">quizapp-placeholder</string>
+    <style name="Theme.QuizApp" parent="Theme.MaterialComponents.DayNight.NoActionBar"><item name="colorPrimary">@color/primary</item><item name="colorPrimaryVariant">@color/primary_dark</item><item name="colorSecondary">@color/primary</item><item name="android:fontFamily">sans</item><item name="android:statusBarColor">@color/primary_dark</item><item name="android:navigationBarColor">@color/surface_bg</item><item name="android:windowLightNavigationBar">true</item></style>
+</resources>
